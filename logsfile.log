@@ -1,0 +1,54 @@
+2024-03-30 22:07:01,256 :INFO : test_EndToEnd :Print the product list
+2024-03-30 22:07:07,345 :INFO : test_EndToEnd :print cofirm×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-30 22:07:12,794 :INFO : test_HomePageFormSubmission :Users Entered a Email ID
+2024-03-30 22:07:12,930 :INFO : test_HomePageFormSubmission : Users Entered a Password ID
+2024-03-30 22:07:13,430 :INFO : test_HomePageFormSubmission :Entered the BirthDate in field
+2024-03-30 22:07:13,678 :INFO : test_HomePageFormSubmission :Get the text of Page×
+Success! The Form has been submitted successfully!.
+2024-03-30 22:07:14,059 :INFO : test_HomePageFormSubmission :Users Entered a Email ID
+2024-03-30 22:07:14,059 :INFO : test_HomePageFormSubmission :Users Entered a Email ID
+2024-03-30 22:07:14,175 :INFO : test_HomePageFormSubmission : Users Entered a Password ID
+2024-03-30 22:07:14,175 :INFO : test_HomePageFormSubmission : Users Entered a Password ID
+2024-03-30 22:07:14,661 :INFO : test_HomePageFormSubmission :Entered the BirthDate in field
+2024-03-30 22:07:14,661 :INFO : test_HomePageFormSubmission :Entered the BirthDate in field
+2024-03-30 22:07:14,861 :INFO : test_HomePageFormSubmission :Get the text of Page×
+Success! The Form has been submitted successfully!.
+2024-03-30 22:07:14,861 :INFO : test_HomePageFormSubmission :Get the text of Page×
+Success! The Form has been submitted successfully!.
+2024-03-30 22:09:02,736 :INFO : test_EndToEnd :Print the product list
+2024-03-30 22:09:08,732 :INFO : test_EndToEnd :print cofirm×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-30 22:09:14,080 :INFO : test_HomePageFormSubmission :Users Entered a Email ID
+2024-03-30 22:09:14,195 :INFO : test_HomePageFormSubmission : Users Entered a Password ID
+2024-03-30 22:09:14,661 :INFO : test_HomePageFormSubmission :Entered the BirthDate in field
+2024-03-30 22:09:14,881 :INFO : test_HomePageFormSubmission :Get the text of Page×
+Success! The Form has been submitted successfully!.
+2024-03-30 22:09:15,190 :INFO : test_HomePageFormSubmission :Users Entered a Email ID
+2024-03-30 22:09:15,190 :INFO : test_HomePageFormSubmission :Users Entered a Email ID
+2024-03-30 22:09:15,315 :INFO : test_HomePageFormSubmission : Users Entered a Password ID
+2024-03-30 22:09:15,315 :INFO : test_HomePageFormSubmission : Users Entered a Password ID
+2024-03-30 22:09:15,775 :INFO : test_HomePageFormSubmission :Entered the BirthDate in field
+2024-03-30 22:09:15,775 :INFO : test_HomePageFormSubmission :Entered the BirthDate in field
+2024-03-30 22:09:15,977 :INFO : test_HomePageFormSubmission :Get the text of Page×
+Success! The Form has been submitted successfully!.
+2024-03-30 22:09:15,977 :INFO : test_HomePageFormSubmission :Get the text of Page×
+Success! The Form has been submitted successfully!.
+2024-03-30 22:38:17,234 :INFO : test_EndToEnd :Print the product list
+2024-03-30 22:38:23,095 :INFO : test_EndToEnd :print cofirm×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-30 22:38:28,697 :INFO : test_HomePageFormSubmission :Users Entered a Email ID
+2024-03-30 22:38:28,847 :INFO : test_HomePageFormSubmission : Users Entered a Password ID
+2024-03-30 22:38:29,362 :INFO : test_HomePageFormSubmission :Entered the BirthDate in field
+2024-03-30 22:38:29,613 :INFO : test_HomePageFormSubmission :Get the text of Page×
+Success! The Form has been submitted successfully!.
+2024-03-30 22:38:29,964 :INFO : test_HomePageFormSubmission :Users Entered a Email ID
+2024-03-30 22:38:29,964 :INFO : test_HomePageFormSubmission :Users Entered a Email ID
+2024-03-30 22:38:30,077 :INFO : test_HomePageFormSubmission : Users Entered a Password ID
+2024-03-30 22:38:30,077 :INFO : test_HomePageFormSubmission : Users Entered a Password ID
+2024-03-30 22:38:30,573 :INFO : test_HomePageFormSubmission :Entered the BirthDate in field
+2024-03-30 22:38:30,573 :INFO : test_HomePageFormSubmission :Entered the BirthDate in field
+2024-03-30 22:38:30,796 :INFO : test_HomePageFormSubmission :Get the text of Page×
+Success! The Form has been submitted successfully!.
+2024-03-30 22:38:30,796 :INFO : test_HomePageFormSubmission :Get the text of Page×
+Success! The Form has been submitted successfully!.

@@ -1,0 +1,87 @@
+1711559555618	geckodriver	INFO	Listening on 127.0.0.1:52290
+1711559558732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\sunil\\AppData\\Local\\Temp\\rust_mozprofileqTnayx"
+1711559560881	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sunil\\AppData\\Local\\Temp\\rust_mozprofileqTnayx\\search.json.mozlz4", (void 0)))
+1711559566313	Marionette	INFO	Listening on port 52334
+Read port: 52334
+1711559566445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+1711559578686	Marionette	INFO	Stopped listening on port 52334
+1711716526042	geckodriver	INFO	Listening on 127.0.0.1:50367
+1711716529090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\sunil\\AppData\\Local\\Temp\\rust_mozprofile2doBEW"
+1711716529877	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sunil\\AppData\\Local\\Temp\\rust_mozprofile2doBEW\\search.json.mozlz4", (void 0)))
+1711716531987	Marionette	INFO	Listening on port 50388
+Read port: 50388
+1711716532105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1711716537358	Marionette	INFO	Stopped listening on port 50388
+1711821015486	geckodriver	INFO	Listening on 127.0.0.1:52519
+1711821018541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\sunil\\AppData\\Local\\Temp\\rust_mozprofileTpHnAk"
+1711821019486	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sunil\\AppData\\Local\\Temp\\rust_mozprofileTpHnAk\\search.json.mozlz4", (void 0)))
+1711821022735	Marionette	INFO	Listening on port 52555
+Read port: 52555
+1711821023020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+1711821033106	Marionette	INFO	Stopped listening on port 52555
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1711821037340	geckodriver	INFO	Listening on 127.0.0.1:52626
+1711821040362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\sunil\\AppData\\Local\\Temp\\rust_mozprofileUzdlXq"
+1711821041107	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sunil\\AppData\\Local\\Temp\\rust_mozprofileUzdlXq\\search.json.mozlz4", (void 0)))
+1711821043508	Marionette	INFO	Listening on port 52659
+Read port: 52659
+1711821043623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1711821049806	Marionette	INFO	Stopped listening on port 52659
+1711821643322	geckodriver	INFO	Listening on 127.0.0.1:53070
+1711821646354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\sunil\\AppData\\Local\\Temp\\rust_mozprofileCMUMgD"
+1711821647516	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sunil\\AppData\\Local\\Temp\\rust_mozprofileCMUMgD\\search.json.mozlz4", (void 0)))
+1711821650458	Marionette	INFO	Listening on port 53097
+Read port: 53097
+1711821651062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+1711821660458	Marionette	INFO	Stopped listening on port 53097
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1711821664750	geckodriver	INFO	Listening on 127.0.0.1:53163
+1711821667758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\sunil\\AppData\\Local\\Temp\\rust_mozprofileAn4G4e"
+1711821668447	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sunil\\AppData\\Local\\Temp\\rust_mozprofileAn4G4e\\search.json.mozlz4", (void 0)))
+1711821670813	Marionette	INFO	Listening on port 53191
+Read port: 53191
+1711821670937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1711821675725	Marionette	INFO	Stopped listening on port 53191
